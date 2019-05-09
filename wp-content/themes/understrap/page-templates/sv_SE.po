@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-04-29 14:23+0200\n"
+"PO-Revision-Date: 2019-04-29 14:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__e\n"
+"X-Poedit-SearchPath-0: loop-templates\n"
+"X-Poedit-SearchPath-1: loop-templates\n"
+"X-Poedit-SearchPath-2: template-parts\n"
+"X-Poedit-SearchPath-3: src\n"
+"X-Poedit-SearchPath-4: loop-templates/content-portfolios.php\n"
+"X-Poedit-SearchPath-5: page-contact.php\n"
+"X-Poedit-SearchPath-6: .\n"
+"X-Poedit-SearchPath-7: languages\n"
+
+#: loop-templates/blog.php:38 loop-templates/content-single.php:31
+#: loop-templates/content.php:38
+msgid "Pages:"
+msgstr ""
+
+#: loop-templates/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klar för att publicera ditt första inlägg? <a href=\"%1$s\"> Kom igång här </"
+"a>."
+
+#: loop-templates/content-page.php:27
+msgid "Edit"
+msgstr "Redigera"
+
+#: loop-templates/content-portfolios.php:28
+msgid "See Portfolio Detail"
+msgstr "Se portföljdetalj"
+
+#: page-contact.php:24
+msgid "Mobile:"
+msgstr "Mobil:"
+
+#: template-parts/front-page-education.php:5
+msgid "Education"
+msgstr "Utbildning"
+
+#: template-parts/front-page-img.php:8
+msgid "Here you can see personal letter"
+msgstr "Här kan du se personligt brev"
